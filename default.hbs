@@ -25,13 +25,15 @@
 	{{! Ghost outputs important style and meta data with this tag }}
     {{ghost_head}}
 </head>
-<body class="{{body_class}}">
 
-	{{#if @blog.cover}}
-	<nav class="navbar navbar-default with-cover" style="background-image: url('{{@blog.cover}}');">
-	{{else}}
+{{#if @blog.cover}}
+<body class="{{body_class}} with-cover" style="background-image: url('{{@blog.cover}}');">
+{{else}}
+<body class="{{body_class}}">
+{{/if}}
+
 	<nav class="navbar navbar-default">
-	{{/if}}
+
         <div class="container limit-width">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
