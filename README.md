@@ -9,8 +9,8 @@ To download, visit the [releases](https://github.com/messier219/mneme/releases) 
 http://www.messier219.com
 
 # Screenshot
-![mneme-0.2.0](https://cloud.githubusercontent.com/assets/287376/9805464/37d8a424-5874-11e5-862d-448c299a23ee.png)
-![mneme-0.2.0](https://cloud.githubusercontent.com/assets/287376/9805466/39eb5f18-5874-11e5-88d6-ad27529ab420.png)
+![mneme-0.3.0](https://cloud.githubusercontent.com/assets/287376/10242847/e8c656ee-692e-11e5-903d-a475d755980e.png)
+![mneme-0.3.0](https://cloud.githubusercontent.com/assets/287376/10242849/ea264a3a-692e-11e5-86b9-302d4b310199.png)
 
 # Copyright & License
 Copyright (C) 2015 Messier219 - Released under the MIT License.
