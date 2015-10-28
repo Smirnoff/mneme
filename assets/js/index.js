@@ -17,24 +17,10 @@ $(document).ready(function () {
         }
 		$gridItem.fadeIn('fast');
 	}).always(function () {
+		$('.spinner').fadeOut('fast');
 		$('.grid').masonry({
 			itemSelector: '.grid-item'
 		});
+		$('.pagination, .widgets, footer').show();
 	});
-
-    /*var $grid = $('.grid').masonry({
-        itemSelector: '.grid-item'
-    });
-
-	$grid.imagesLoaded().progress(function (imgLoad, image) {
-        var $gridItem = $(image.img).parents('.grid-item');
-        $gridItem.show().removeClass('loading');
-        if (image.isLoaded) {
-            $gridItem.addClass('loaded');
-        } else {
-            $gridItem.addClass('unloaded');
-        }
-		console.log(image);
-		$grid.masonry('layout');
-    });*/
 });
