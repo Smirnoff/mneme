@@ -5,21 +5,21 @@ $(document).ready(function () {
 
 	'use strict';
 
-	var $grid = $('.grid'),
-		$textItems = $grid.find('.grid-item');
+	//$('.grid-item').removeClass('loading').addClass('loaded').show();
 
-	$grid = $('.grid').masonry({
+    var $grid = $('.grid').masonry({
         itemSelector: '.grid-item'
     });
 
-    $grid.imagesLoaded().progress(function (imgLoad, image) {
+	/*$grid.imagesLoaded().progress(function (imgLoad, image) {
         var $gridItem = $(image.img).parents('.grid-item');
-        $gridItem.fadeIn('fast').removeClass('loading');
+        $gridItem.show().removeClass('loading');
         if (image.isLoaded) {
             $gridItem.addClass('loaded');
         } else {
             $gridItem.addClass('unloaded');
         }
-        $grid.masonry('layout');
-    });
+		console.log(image);
+		$grid.masonry('layout');
+    });*/
 });
