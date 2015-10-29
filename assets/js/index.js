@@ -8,7 +8,6 @@ $(document).ready(function () {
 	var $grid = $('.grid');
 
 	if ($grid.length > 0) {
-		$('.spinner').fadeIn('fast');
 		$grid.imagesLoaded().progress(function (instance, image) {
 			var $gridItem = $(image.img).parents('.grid-item');
 			$gridItem.removeClass('loading');
