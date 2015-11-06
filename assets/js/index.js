@@ -24,5 +24,7 @@ $(document).ready(function () {
 			});
 			$('.pagination, .widgets, footer').show();
 		});
+	} else {
+		$('.widgets, footer').show();
 	}
 });
