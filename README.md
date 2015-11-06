@@ -1,16 +1,18 @@
 # Mneme
 Mneme is theme for Ghost blog platform Using marsonry library.
 
-Without masonry library version is [without_masonry branch](https://github.com/messier219/mneme/tree/without_masonry).
-
 To download, visit the [releases](https://github.com/messier219/mneme/releases) page.
 
-# Demo
-http://www.messier219.com
-
 # Screenshot
-![mneme-0.3.0](https://cloud.githubusercontent.com/assets/287376/10242847/e8c656ee-692e-11e5-903d-a475d755980e.png)
-![mneme-0.3.0](https://cloud.githubusercontent.com/assets/287376/10242849/ea264a3a-692e-11e5-86b9-302d4b310199.png)
+![mneme-0.3.4](https://cloud.githubusercontent.com/assets/287376/11001801/8eef4f66-84ec-11e5-9c6f-3463f1f9180d.png)
+![mneme-0.3.4](https://cloud.githubusercontent.com/assets/287376/10242849/ea264a3a-692e-11e5-86b9-302d4b310199.png)
+
+# Use widget
+/default.hbs - Remove "!" on 69 line.
+
+# Use Comment (disqus)
+/post.hbs - Remove "!" on 31 line.
+/addons/comment.hbs - Change 'yourname' on 6 line.
 
 # Copyright & License
 Copyright (C) 2015 Messier219 - Released under the MIT License.
