@@ -5,7 +5,7 @@ To download, visit the [releases](https://github.com/messier219/mneme/releases) 
 
 # Screenshot
 ![mneme-0.3.4](https://cloud.githubusercontent.com/assets/287376/10242847/e8c656ee-692e-11e5-903d-a475d755980e.png)
-![mneme-0.3.4](https://cloud.githubusercontent.com/assets/287376/10242849/ea264a3a-692e-11e5-86b9-302d4b310199.png)
+![mneme-0.3.4](https://cloud.githubusercontent.com/assets/287376/11001801/8eef4f66-84ec-11e5-9c6f-3463f1f9180d.png)
 
 # Use widget
 /default.hbs - Remove "!" on 69 line.
