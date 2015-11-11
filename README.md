@@ -3,6 +3,12 @@ Mneme is theme for Ghost blog platform Using marsonry library.
 
 To download, visit the [releases](https://github.com/messier219/mneme/releases) page.
 
+# Features
+* [SNS link widgets](https://github.com/messier219/mneme#use-widget-sns-link)
+* [Discus comment](https://github.com/messier219/mneme#use-comment-disqus)
+* [Support full cover](https://github.com/messier219/mneme#support-full-cover)
+* [Change main color](https://github.com/messier219/mneme#change-main-color)
+
 # Screenshot
 ![mneme-0.3.4](https://cloud.githubusercontent.com/assets/287376/10242847/e8c656ee-692e-11e5-903d-a475d755980e.png)
 ![mneme-0.3.4](https://cloud.githubusercontent.com/assets/287376/11001801/8eef4f66-84ec-11e5-9c6f-3463f1f9180d.png)
