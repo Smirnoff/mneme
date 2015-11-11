@@ -8,7 +8,7 @@ To download, visit the [releases](https://github.com/messier219/mneme/releases) 
 ![mneme-0.3.4](https://cloud.githubusercontent.com/assets/287376/11001801/8eef4f66-84ec-11e5-9c6f-3463f1f9180d.png)
 
 # Use widget (SNS link)
-/partials/addons/widgets.hbs - Change 'yourname' on link.
+`/partials/addons/widgets.hbs` - Change 'yourname' on link.
 ![widget](https://cloud.githubusercontent.com/assets/287376/11084119/88d08e2e-887a-11e5-8bdd-de620f4ee687.PNG)
 
 # Use Comment (disqus)
