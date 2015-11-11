@@ -9,19 +9,19 @@ To download, visit the [releases](https://github.com/messier219/mneme/releases) 
 
 # Use widget (SNS link)
 /partials/addons/widgets.hbs - Change 'yourname' on link.
-![widget](https://cloud.githubusercontent.com/assets/287376/11083883/d6b7913a-8877-11e5-9bd3-b9473e6d38dd.PNG)
+![widget](https://cloud.githubusercontent.com/assets/287376/11084119/88d08e2e-887a-11e5-8bdd-de620f4ee687.PNG)
 
 # Use Comment (disqus)
-/post.hbs - Remove "!" on 31 line. 
+`/post.hbs` - Remove "!" on 31 line. 
 
-/partials/addons/comment.hbs - Change 'yourname' on 6 line.
+`/partials/addons/comment.hbs` - Change 'yourname' on 6 line.
 
 # Support full cover
 Mneme is support your blog cover.
 ![cover](https://cloud.githubusercontent.com/assets/287376/11083884/d794e210-8877-11e5-8686-f1eea9216110.jpg)
 
 # Change main color
-/assets/css/style.less - Change color code
+`/assets/css/style.less` - Change color code
 
 ```
 @default-background: #e74c3c;
