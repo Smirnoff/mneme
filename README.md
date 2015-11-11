@@ -20,6 +20,14 @@ To download, visit the [releases](https://github.com/messier219/mneme/releases) 
 Mneme is support your blog cover.
 ![cover](https://cloud.githubusercontent.com/assets/287376/11083884/d794e210-8877-11e5-8686-f1eea9216110.jpg)
 
+# Change main color
+/assets/css/style.less - Change color code
+
+```
+@default-background: #e74c3c;
+@default-foreground: #ffffff;
+```
+
 # Copyright & License
 Copyright (C) 2015 Messier219 - Released under the MIT License.
 
