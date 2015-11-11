@@ -7,12 +7,18 @@ To download, visit the [releases](https://github.com/messier219/mneme/releases) 
 ![mneme-0.3.4](https://cloud.githubusercontent.com/assets/287376/10242847/e8c656ee-692e-11e5-903d-a475d755980e.png)
 ![mneme-0.3.4](https://cloud.githubusercontent.com/assets/287376/11001801/8eef4f66-84ec-11e5-9c6f-3463f1f9180d.png)
 
-# Use widget
-/default.hbs - Remove "!" on 69 line.
+# Use widget (SNS link)
+/partials/addons/widgets.hbs - Change 'yourname' on link.
+![widget](https://cloud.githubusercontent.com/assets/287376/11083883/d6b7913a-8877-11e5-9bd3-b9473e6d38dd.PNG)
 
 # Use Comment (disqus)
-/post.hbs - Remove "!" on 31 line.
-/addons/comment.hbs - Change 'yourname' on 6 line.
+/post.hbs - Remove "!" on 31 line. 
+
+/partials/addons/comment.hbs - Change 'yourname' on 6 line.
+
+# Support full cover
+Mneme is support your blog cover.
+![cover](https://cloud.githubusercontent.com/assets/287376/11083884/d794e210-8877-11e5-8686-f1eea9216110.jpg)
 
 # Copyright & License
 Copyright (C) 2015 Messier219 - Released under the MIT License.
